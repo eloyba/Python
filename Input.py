@@ -1,1 +1,0 @@
-print (input("¿Cauntos años tienes?: "))
