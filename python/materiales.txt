@@ -1,0 +1,3 @@
+saco cemento --> 2
+saco arena --> 2
+cubo agua --> 4
